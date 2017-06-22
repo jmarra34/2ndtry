@@ -1,0 +1,4 @@
+[Thu Jun 22 21:31:40.421522 2017] [mpm_prefork:notice] [pid 3308] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 configured -- resuming normal operations
+[Thu Jun 22 21:31:40.421625 2017] [core:notice] [pid 3308] AH00094: Command line: 'apache2'
+[Thu Jun 22 21:32:01.939588 2017] [core:info] [pid 3349] [client 10.240.0.187:50860] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://github-assigment-part2-samefiles-jpeezy34.c9users.io/3linefile.html
+[Thu Jun 22 21:37:52.668885 2017] [mpm_prefork:notice] [pid 3308] AH00169: caught SIGTERM, shutting down
